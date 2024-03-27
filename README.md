@@ -34,5 +34,3 @@ This Python script utilizes OpenCV to perform real-time face detection using the
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, make changes, and submit pull requests.
-
-```
